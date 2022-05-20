@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "cypress:run:ct": "cypress run --component"
   },
   "devDependencies": {
     "cypress": "https://cdn.cypress.io/beta/npm/10.0.0/darwin-x64/10.0-release-8d79472b7d569094c94836ecb6cd527ee5823111/cypress.tgz",
